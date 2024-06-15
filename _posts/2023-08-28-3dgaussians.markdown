@@ -7,6 +7,7 @@ categories: research
 author: "Michael Evans"
 authors: "<strong>Michael Evans</strong>, Dominik Soós, Ethan Landers, Jian Wu"
 venue: "MobiHoc"
+arxiv:
 code: https://github.com/lamps-lab/msvec
 paper: https://dl.acm.org/doi/10.1145/3565287.3617630
 ---
