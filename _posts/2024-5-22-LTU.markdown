@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Developing Self-Drive Algorithms for Electric Vehicles"
+title:  "Developing Self-Drive Algorithms for Electric Vehicles <strong>Intership</strong>"
 date:   2024-05-22 22:21:59 +00:00
 image: /images/NSF_logo.png
 categories: research
-author:
+author: Michael Evans
 authors:
-venue:
+venue: Lawrence Tech and Michigan State University
 arxiv:
 code:
 paper:
