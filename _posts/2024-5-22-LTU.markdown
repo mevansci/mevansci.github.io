@@ -11,4 +11,4 @@ arxiv:
 code:
 paper:
 ---
-We built a dataset of 200 scientific news claims and accompanying research papers and tested it against the gpt-3.5-turbo model on the task of scientific claim verification.
+Developed lane-following algorithms using ROS and OpenCV, tested on 2 GEM electric vehicles.
