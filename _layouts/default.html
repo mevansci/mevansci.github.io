@@ -82,7 +82,7 @@
               {{post.authors}}
 
               <br>
-              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}, <p style="display: inline; color: #2cc755; font-weight: bold;">Paper</p>
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}, <p style="display: inline; color: #25b34b; font-weight: bold;">[Paper]</p>
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
@@ -121,7 +121,7 @@
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
-              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}, <p style="display: inline; color: red; font-weight: bold;">Internship</p>
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}, <p style="display: inline; color: red; font-weight: bold;">[Internship]</p>
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
