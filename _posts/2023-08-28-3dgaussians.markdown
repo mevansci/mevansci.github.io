@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Flexible Techniques for Differentiable Rendering with 3D Gaussians"
-date:   2023-08-28 22:21:59 +00:00
+title:  "MSVEC: A Multidomain Testing Dataset for Scientific Claim Verification"
+date:   2023-10-16 22:21:59 +00:00
 image: /images/3dgaussian.jpg
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
-venue: "arXiv"
+author: "Michael Evans"
+authors: "<strong>Michael Evans</strong>, Dominik Soós, Ethan Landers, Jian Wu"
+venue: "MobiHoc '23"
 arxiv: https://arxiv.org/abs/2308.14737
 code: https://github.com/leonidk/fmb-plus
 website: https://leonidk.github.io/fmb-plus
