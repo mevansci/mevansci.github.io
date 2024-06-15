@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Developing Self-Drive Algorithms for Electric Vehicles"
+date:   2024-05-22 22:21:59 +00:00
+image: /images/NSF_logo.png
+categories: research
+author:
+authors:
+venue:
+arxiv:
+code:
+paper:
+---
+We built a dataset of 200 scientific news claims and accompanying research papers and tested it against the gpt-3.5-turbo model on the task of scientific claim verification.
