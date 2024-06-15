@@ -3,7 +3,7 @@ layout: post
 title:  "MSVEC: A Multidomain Testing Dataset for Scientific Claim Verification"
 date:   2023-10-16 22:21:59 +00:00
 image: /images/NSF_logo.png
-categories: research
+categories: paper
 author: "Michael Evans"
 authors: "<strong>Michael Evans</strong>, Dominik Soós, Ethan Landers, Jian Wu"
 venue: "MobiHoc"
