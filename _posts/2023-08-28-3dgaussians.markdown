@@ -6,9 +6,8 @@ image: /images/3dgaussian.jpg
 categories: research
 author: "Michael Evans"
 authors: "<strong>Michael Evans</strong>, Dominik Soós, Ethan Landers, Jian Wu"
-venue: "MobiHoc '23"
-arxiv: https://arxiv.org/abs/2308.14737
-code: https://github.com/leonidk/fmb-plus
-website: https://leonidk.github.io/fmb-plus
+venue: "MobiHoc"
+code: https://github.com/lamps-lab/msvec
+paper: https://dl.acm.org/doi/10.1145/3565287.3617630
 ---
 We show how shape reconstruction with 3D Gaussians can be expanded to include differentiable optical flow, colored mesh exports and more. 
