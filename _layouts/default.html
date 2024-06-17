@@ -123,12 +123,6 @@
               <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}, <p style="display: inline; color: red; font-weight: bold;">[Internship]</p>
               <br>
-              <ul style="list-style: none;">
-                <li style="display: inline-block; margin-right: 10px;">Skill 1</li>
-                <li style="display: inline-block; margin-right: 10px;">Skill 2</li>
-                <li style="display: inline-block; margin-right: 10px;">Skill 3</li>
-              </ul>
-              <!---
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
               {% endif %}
@@ -154,7 +148,14 @@
               <a href="{{post.youtube}}">youtube</a> /
               {% endif %}
               <p></p>
-              {{ post.excerpt }} -->
+              {{ post.excerpt }}
+            </td>
+            <td>
+              <ul style="list-style: none;">
+                <li style="display: inline-block; margin-right: 10px;">ROS</li>
+                <li style="display: inline-block; margin-right: 10px;">OpenCV</li>
+                <li style="display: inline-block; margin-right: 10px;">Linux</li>
+              </ul>
             </td>
           </tr>
           {% endif %}
