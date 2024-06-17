@@ -121,6 +121,9 @@
             <td style="padding:2.5%;width:75%;vertical-align:middle">
               <h3>{{post.title}}</h3>
               <br>
+              {{post.authors}}
+
+              <br>
               <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}, <p style="display: inline; color: #4d02cf; font-weight: bold;">[Internship]</p>
               <br>
               {% if post.arxiv %}
