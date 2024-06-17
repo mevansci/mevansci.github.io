@@ -8,7 +8,7 @@ author: Michael Evans
 authors:
 venue: Lawrence Tech and Michigan State University
 arxiv:
-code:
+code: https://github.com/MMachado05/REU-2024
 paper:
 ---
 Developed lane-following algorithms using ROS and OpenCV, tested on 2 GEM electric vehicles. Currently developing a road side unit (RSU) for an autonomous stop light capable of directing 3-way intersections.
