@@ -5,7 +5,7 @@ date:   2024-05-22 22:21:59 +00:00
 image: /images/lane-following.gif
 categories: internship
 author: Michael Evans
-authors:
+authors: Advisors: Dr. Chan-Jin (CJ) Chung, Dr. Josh Siegel
 venue: Lawrence Tech and Michigan State University
 arxiv:
 code: https://github.com/MMachado05/REU-2024
