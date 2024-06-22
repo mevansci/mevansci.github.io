@@ -10,5 +10,6 @@ venue: Lawrence Tech and Michigan State University
 arxiv:
 code: https://github.com/MMachado05/REU-2024
 paper:
+video: https://drive.google.com/file/d/1k-c6MxdbnJlIQDg9SqkMfA2gZ6_qDinx/view?usp=sharing
 ---
 Developed lane-following algorithms using ROS and OpenCV, tested on 2 GEM electric vehicles. Currently developing a road side unit (RSU) for an autonomous stop light capable of directing 3-way intersections.
