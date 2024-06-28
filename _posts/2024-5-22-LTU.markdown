@@ -2,7 +2,7 @@
 layout: post
 title:  "Developing Self-Drive Algorithms for Electric Vehicles"
 date:   2024-05-22 22:21:59 +00:00
-image: /images/lane-following.gif
+image: /images/lane-follow.gif
 categories: internship
 author: Michael Evans
 authors: Dr. Chan-Jin (CJ) Chung, Dr. Josh Siegel
