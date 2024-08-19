@@ -13,4 +13,4 @@ slides: /pdfs/V2X_Slides.pdf
 paper:
 video: https://www.youtube.com/watch?v=OeRlhWqmIgE
 ---
-Designed a V2X wireless communication architecture with a roadside unit capable of dynamically adjusting vehicle speed in response to traffic states, and deployed an Arduino-powered traffic light for visualization.
+Designed a V2X wireless communication architecture with a roadside unit capable of dynamically adjusting vehicle speed in response to traffic states.
