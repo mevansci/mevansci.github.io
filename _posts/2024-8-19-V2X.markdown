@@ -1,16 +1,16 @@
 ---
 layout: post
-title:  "Developing Self-Drive Algorithms for Electric Vehicles"
+title:  "Vehicle-to-Everything (V2X) Communication: A Roadside Unit for Adaptive Intersection Control of Autonomous Electric Vehicles"
 date:   2024-05-22 22:21:59 +00:00
 image: /images/Network.png
-categories: internship
-author: Michael Evans
-authors: Dr. Chan-Jin (CJ) Chung, Dr. Josh Siegel
-venue: Lawrence Tech and Michigan State University
+categories: paper
+author: "Michael Evans"
+authors: <strong>M. Evans</strong>, M. Machado, R. Johnson, L. Escamilla, A. Vadella, B. Froemming-Aldanondo, T. Rastoskueva, M. Jostes, D. Butani, R. Kaddis, C. Chung, and J. Siegel.
+venue: "[In Submission]"
 arxiv:
 code: https://github.com/MMachado05/REU-2024
 slides: /pdfs/V2X_Slides.pdf
 paper:
-video: https://drive.google.com/file/d/1k-c6MxdbnJlIQDg9SqkMfA2gZ6_qDinx/view?usp=sharing
+video: https://www.youtube.com/watch?v=OeRlhWqmIgE
 ---
-Developed lane-following algorithms using ROS and OpenCV, tested on 2 GEM electric vehicles. Currently developing a road side unit (RSU) for an autonomous stop light capable of directing 3-way intersections.
+Designed a V2X wireless communication architecture with a roadside unit capable of dynamically adjusting vehicle speed in response to traffic states, and deployed an Arduino-powered traffic light for visualization.
