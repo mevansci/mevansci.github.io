@@ -6,11 +6,11 @@ image: /images/lane-follow.gif
 categories: paper
 author: "Michael Evans"
 authors: "B. Froemming-Aldanondo, T. Rastoskueva, <strong>M. Evans</strong>, M. Machado, A. Vadella, L. Escamilla, R. Johnson, M. Jostes, D. Butani, R. Kaddis, C. Chung, and J. Siegel"
-venue: [In Submission]
+venue: "[In Submission]"
 arxiv:
 code: https://github.com/MMachado05/REU-2024
 slides: /pdfs/V2X_Slides.pdf
 paper:
-video: https://drive.google.com/file/d/1k-c6MxdbnJlIQDg9SqkMfA2gZ6_qDinx/view?usp=sharing
+video: https://www.youtube.com/watch?v=OeRlhWqmIgE
 ---
-Developed lane-following algorithms using ROS and OpenCV, tested on 2 GEM electric vehicles. Currently developing a road side unit (RSU) for an autonomous stop light capable of directing 3-way intersections.
+Developed 5 lane-following algorithms using ROS, Scikit-learn, and OpenCV, tested on 2 GEM electric vehicles.
