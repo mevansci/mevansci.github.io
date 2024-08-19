@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "Developing Self-Drive Algorithms for Electric Vehicles"
+title:  "Developing, Analyzing, and Evaluating Self-Drive Algorithms Using Drive-by-Wire Electric Vehicles"
 date:   2024-05-22 22:21:59 +00:00
 image: /images/lane-follow.gif
-categories: internship
-author: Michael Evans
-authors: Dr. Chan-Jin (CJ) Chung, Dr. Josh Siegel
-venue: Lawrence Tech and Michigan State University
+categories: paper
+author: "Michael Evans"
+authors: "B. Froemming-Aldanondo, T. Rastoskueva, <strong>M. Evans</strong>, M. Machado, A. Vadella, L. Escamilla, R. Johnson, M. Jostes, D. Butani, R. Kaddis, C. Chung, and J. Siegel"
+venue: [In Submission]
 arxiv:
 code: https://github.com/MMachado05/REU-2024
 slides: /pdfs/V2X_Slides.pdf
