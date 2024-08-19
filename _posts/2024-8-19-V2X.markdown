@@ -2,7 +2,7 @@
 layout: post
 title:  "Vehicle-to-Everything (V2X) Communication: A Roadside Unit for Adaptive Intersection Control of Autonomous Electric Vehicles"
 date:   2024-05-22 22:21:59 +00:00
-image: /images/Network.png
+image: /images/Software_Diagram.png
 categories: paper
 author: "Michael Evans"
 authors: <strong>M. Evans</strong>, M. Machado, R. Johnson, L. Escamilla, A. Vadella, B. Froemming-Aldanondo, T. Rastoskueva, M. Jostes, D. Butani, R. Kaddis, C. Chung, and J. Siegel.
