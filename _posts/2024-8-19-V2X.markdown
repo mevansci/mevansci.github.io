@@ -9,7 +9,7 @@ authors: <strong>M. Evans</strong>, M. Machado, R. Johnson, L. Escamilla, A. Vad
 venue: "[In Submission]"
 arxiv:
 code: https://github.com/MMachado05/REU-2024
-slides: /pdfs/V2X_Slides.pdf
+slides: /pdfs/V2X_Final_Presentation.pdf
 paper:
 video: https://www.youtube.com/watch?v=OeRlhWqmIgE
 ---
