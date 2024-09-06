@@ -6,7 +6,7 @@ image: /images/lane-follow.gif
 categories: paper
 author: "Michael Evans"
 authors: "B. Froemming-Aldanondo, T. Rastoskueva, <strong>M. Evans</strong>, M. Machado, A. Vadella, L. Escamilla, R. Johnson, M. Jostes, D. Butani, R. Kaddis, C. Chung, and J. Siegel"
-venue: "[In Submission]"
+venue: "arXiv"
 arxiv:
 code: https://github.com/MMachado05/REU-2024
 slides: /pdfs/V2X_Final_Presentation.pdf
