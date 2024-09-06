@@ -6,7 +6,7 @@ image: /images/Software_Diagram.png
 categories: paper
 author: "Michael Evans"
 authors: <strong>M. Evans</strong>, M. Machado, R. Johnson, L. Escamilla, A. Vadella, B. Froemming-Aldanondo, T. Rastoskueva, M. Jostes, D. Butani, R. Kaddis, C. Chung, and J. Siegel
-venue: "[In Submission]"
+venue: "arXiv"
 arxiv:
 code: https://github.com/MMachado05/REU-2024
 slides: /pdfs/V2X_Final_Presentation.pdf
