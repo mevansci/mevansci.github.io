@@ -12,6 +12,6 @@ code: https://github.com/MMachado05/REU-2024
 slides: /pdfs/V2X_Final_Presentation.pdf
 paper:
 video: https://www.youtube.com/watch?v=OeRlhWqmIgE
-pdf: /pdfs/V2X.pdf
+pdf: https://arxiv.org/pdf/2409.00866
 ---
 Designed a V2X wireless communication architecture with a roadside unit capable of dynamically adjusting vehicle speed in response to traffic states.
