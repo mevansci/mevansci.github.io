@@ -12,6 +12,6 @@ code: https://github.com/MMachado05/REU-2024
 slides: /pdfs/V2X_Final_Presentation.pdf
 paper: /pdfs/Lane-Following.pdf
 video: https://www.youtube.com/watch?v=OeRlhWqmIgE
-pdf: /pdfs/Lane-Following.pdf
+pdf: https://arxiv.org/pdf/2409.03114
 ---
 Developed 5 lane-following algorithms using ROS, Scikit-learn, and OpenCV, tested on 2 GEM electric vehicles.
