@@ -10,7 +10,7 @@ venue: "[In Submission]"
 arxiv:
 code: https://github.com/MMachado05/REU-2024
 slides: /pdfs/V2X_Final_Presentation.pdf
-paper: /pdfs/Lane-Following.pdf
+paper: https://doi.org/10.48550/arXiv.2409.03114
 video: https://www.youtube.com/watch?v=OeRlhWqmIgE
 pdf: https://arxiv.org/pdf/2409.03114
 ---
