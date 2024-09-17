@@ -117,7 +117,7 @@
             </td>
           </tr>
           {% endif %}
-          {% if cat == 'internship' %}
+          {% if cat == 'project' %}
           <tr>
             <td style="padding:2.5%;width:25%;vertical-align:middle;min-width:120px">
               <img src="/tn{{post.image}}" alt="project image" style="width:auto; height:auto; max-width:100%;" />
@@ -128,7 +128,7 @@
               {{post.authors}}
 
               <br>
-              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}, <p style="display: inline; color: #4d02cf; font-weight: bold;">[Internship]</p>
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}, <p style="display: inline; color: #4d02cf; font-weight: bold;">[Project]</p>
               <br>
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
