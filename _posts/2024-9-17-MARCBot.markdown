@@ -2,16 +2,16 @@
 layout: post
 title:  "MARCBot IV"
 date:   2024-05-22 22:21:59 +00:00
-image: /images/Software_Diagram.png
+image: /images/MARCBot.png
 categories: paper
 author: "Michael Evans"
-authors: <strong>M. Evans</strong>, M. Machado, R. Johnson, L. Escamilla, A. Vadella, B. Froemming-Aldanondo, T. Rastoskueva, M. Jostes, D. Butani, R. Kaddis, C. Chung, and J. Siegel
-venue: "arXiv"
+authors: Michael Evans
+venue: "ODU Vision Lab"
 arxiv:
-code: https://github.com/MMachado05/REU-2024
-slides: /pdfs/V2X_Final_Presentation.pdf
-paper: https://doi.org/10.48550/arXiv.2409.00866
-video: https://www.youtube.com/watch?v=OeRlhWqmIgE
-pdf: https://arxiv.org/pdf/2409.00866
+code:
+slides:
+paper:
+video:
+pdf:
 ---
 Consolidated an existing research project with MARCbot IV, a surveillance robot capable of identifying, tracking, and following individuals using MATLAB.
