@@ -14,4 +14,4 @@ paper:
 video:
 pdf:
 ---
-Consolidated an existing research project with MARCbot IV, a surveillance robot capable of identifying, tracking, and following individuals using MATLAB.
+Consolidated an existing research project with MARCbot IV, a surveillance robot capable of identifying, tracking, and following individuals using MATLAB. Calibrated the autonomous driving algorithm for target following through tight and cluttered environments, allowing for previously unsafe demonstrations to be performed indoors.
