@@ -14,4 +14,4 @@ paper:
 video:
 pdf:
 ---
-Trained a deep convolutional neural network (CNN) for target identification using VGG16 for MARCbot IV, a surveillance robot capable of identifying, tracking, and following individuals, using MATLAB. Calibrated the autonomous driving algorithm for target following in tight, cluttered environments, enabling safe indoor demonstrations that were previously not viable.
+Applied transfer learning to the VGG16 convolutional neural network (CNN) for target identification with MARCBot: a surveillance robot capable of identifying, tracking, and following individuals with TensorFlow and Keras. Fine-tuned the motion planning algorithm in MATLAB for target following through tight, cluttered environments, enabling safe indoor operation previously limited to outdoor use.
