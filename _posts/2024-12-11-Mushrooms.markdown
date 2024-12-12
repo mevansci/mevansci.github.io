@@ -14,4 +14,4 @@ paper:
 video:
 pdf: /pdfs/CS_422_Project.pdf
 ---
-Trained a gradient boosting classifier model on 47,051 samples to perform binary classification on mushrooms. Achieved a precision, recall, and F1 score of 0.99 through hyperparameter tuning and 5-fold cross validation.
+Trained a gradient boosting classifier model on 47,051 samples to perform binary classification on numerical mushroom data. Achieved a precision, recall, and F1 score of 0.99 through hyperparameter tuning and 5-fold cross validation.
