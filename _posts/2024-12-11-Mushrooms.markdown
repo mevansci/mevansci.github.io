@@ -8,7 +8,7 @@ author: "Michael Evans and Grant Fitch"
 authors: <strong>Michael Evans</strong> and Grant Fitch
 venue: "CS 422 Intro to Machine Learning Course Project"
 arxiv:
-code:
+code: https://github.com/TheGrizF/CS422-Mushroom-Classification
 slides:
 paper:
 video:
