@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: paper
 title:  "MSVEC: A Multidomain Testing Dataset for Scientific Claim Verification"
 date:   2023-10-16 22:21:59 +00:00
 image: /images/ACM-logo.png
