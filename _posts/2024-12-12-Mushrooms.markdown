@@ -12,6 +12,6 @@ code:
 slides:
 paper:
 video:
-pdf:
+pdf: /pdfs/CS_422_Project.pdf
 ---
 Poisonous vs Edible Mushroom Classification With Gradient Boosting
