@@ -14,4 +14,4 @@ paper:
 video:
 pdf: /pdfs/CS_422_Project.pdf
 ---
-Poisonous vs Edible Mushroom Classification With Gradient Boosting.
+Trained a gradient boosting classifier model on 47,051 samples to perform binary classification on mushrooms. Achieved an F1 score of 0.99 through hyperparameter tuning and 5-fold cross validation.
