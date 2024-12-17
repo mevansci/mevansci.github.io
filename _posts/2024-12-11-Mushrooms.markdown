@@ -6,7 +6,7 @@ image: /images/mushroom.gif
 categories: project
 author: "Michael Evans and Grant Fitch"
 authors: <strong>Michael Evans</strong> and Grant Fitch
-venue: "CS 422 Intro to Machine Learning Course Project"
+venue: "CS 422 Introduction to Machine Learning Term Project"
 arxiv:
 code: https://github.com/TheGrizF/CS422-Mushroom-Classification
 slides: /pdfs/Mushroom Classification Presentation.pdf
