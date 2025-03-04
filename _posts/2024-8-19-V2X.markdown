@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Vehicle-to-Everything (V2X) Communication: A Roadside Unit for Adaptive Intersection Control of Autonomous Electric Vehicles"
+title:  "A Roadside Unit for Infrastructure Assisted Intersection Control of Autonomous Vehicles"
 date:   2024-05-22 22:21:59 +00:00
 image: /images/Software_Diagram.png
 categories: paper
