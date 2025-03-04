@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Developing, Analyzing, and Evaluating Self-Drive Algorithms Using Drive-by-Wire Electric Vehicles"
+title:  "Evaluating Low-Resource Lane Following Algorithms for Compute-Constrained Automated Vehicles"
 date:   2024-05-22 22:21:59 +00:00
 image: /images/lane-follow.gif
 categories: paper
