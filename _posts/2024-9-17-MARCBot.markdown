@@ -14,4 +14,4 @@ paper:
 video: https://youtu.be/-rpCodNkUC0
 pdf:
 ---
-Applied model fine-tuning to the VGG16 convolutional neural network (CNN) for target identification with MARCBot: a surveillance robot capable of identifying, tracking, and following individuals with PyTorch. Improved the motion planning algorithm in MATLAB for target following through tight, cluttered environments, enabling safe indoor operation previously limited to outdoor use.
+Applied model fine-tuning to the VGG16 convolutional neural network (CNN) for target identification with MARCBot IV: a surveillance robot capable of identifying, tracking, and following individuals with PyTorch. Improved the motion planning algorithm in MATLAB for target following through tight, cluttered environments, enabling safe indoor operation previously limited to outdoor use.
