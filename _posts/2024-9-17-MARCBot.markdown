@@ -9,7 +9,7 @@ authors: Michael Evans
 venue: "ODU Vision Lab"
 arxiv:
 code:
-slides:
+slides: /pdfs/MARCBot_IV_Slides.pdf
 paper:
 video: https://youtu.be/-rpCodNkUC0
 pdf:
