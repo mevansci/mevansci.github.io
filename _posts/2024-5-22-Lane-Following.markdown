@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "Evaluating Low-Resource Lane Following Algorithms for Compute-Constrained Automated Vehicles"
-date:   2024-05-22 22:21:59 +00:00
+date:   2025-05-22 22:21:59 +00:00
 image: /images/lane-follow.gif
 categories: paper
 author: "Michael Evans"
 authors: "B. Froemming-Aldanondo, T. Rastoskueva, <strong>M. Evans</strong>, M. Machado, A. Vadella, L. Escamilla, R. Johnson, M. Jostes, D. Butani, R. Kaddis, C. Chung, and J. Siegel"
-venue: "arXiv"
+venue: "IEEE AIRC"
 arxiv:
 code: https://github.com/MMachado05/REU-2024
 slides: /pdfs/V2X_Final_Presentation.pdf
