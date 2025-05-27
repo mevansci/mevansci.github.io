@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A Roadside Unit for Infrastructure Assisted Intersection Control of Autonomous Vehicles"
-date:   2025-05-31 22:21:59 +00:00
+date:   2025-05-23 22:21:59 +00:00
 image: /images/Software_Diagram.png
 categories: paper
 author: "Michael Evans"
