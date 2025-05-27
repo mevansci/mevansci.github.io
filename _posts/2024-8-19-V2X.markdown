@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "A Roadside Unit for Infrastructure Assisted Intersection Control of Autonomous Vehicles"
-date:   2024-05-22 22:21:59 +00:00
+date:   2025-05-31 22:21:59 +00:00
 image: /images/Software_Diagram.png
 categories: paper
 author: "Michael Evans"
 authors: <strong>M. Evans</strong>, M. Machado, R. Johnson, L. Escamilla, A. Vadella, B. Froemming-Aldanondo, T. Rastoskueva, M. Jostes, D. Butani, R. Kaddis, C. Chung, and J. Siegel
-venue: "arXiv"
+venue: "IEEE EIT"
 arxiv:
 code: https://github.com/MMachado05/REU-2024
 slides: /pdfs/V2X_Final_Presentation.pdf
