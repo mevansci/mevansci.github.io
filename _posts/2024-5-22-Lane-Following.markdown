@@ -9,7 +9,7 @@ authors: "B. Froemming-Aldanondo, T. Rastoskueva, <strong>M. Evans</strong>, M. 
 venue: "IEEE AIRC"
 arxiv:
 code: https://github.com/MMachado05/REU-2024
-slides: /pdfs/V2X_Final_Presentation.pdf
+slides: /pdfs/AC303-AIRC_Presentation.pdf
 paper: https://doi.org/10.48550/arXiv.2409.03114
 video: https://www.youtube.com/watch?v=OeRlhWqmIgE
 pdf: https://arxiv.org/pdf/2409.03114
