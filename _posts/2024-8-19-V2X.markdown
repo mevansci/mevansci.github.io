@@ -9,7 +9,7 @@ authors: <strong>M. Evans</strong>, M. Machado, R. Johnson, L. Escamilla, A. Vad
 venue: "IEEE EIT"
 arxiv:
 code: https://github.com/MMachado05/REU-2024
-slides: /pdfs/V2X_Final_Presentation.pdf
+slides: /pdfs/present-067.pdf
 paper: https://doi.org/10.48550/arXiv.2409.00866
 video: https://www.youtube.com/watch?v=OeRlhWqmIgE
 pdf: https://arxiv.org/pdf/2409.00866
