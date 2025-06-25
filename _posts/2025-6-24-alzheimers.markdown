@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Machine learning-enhanced non-amnestic Alzheimer's disease diagnosis from MRI and clinical features"
+title:  "Machine Learning-Enhanced Non-Amnestic Alzheimer's Disease Diagnosis From MRI and Clinical Features"
 date:   2025-06-24 22:21:59 +00:00
 image: /images/alzheimers.png
 categories: paper
