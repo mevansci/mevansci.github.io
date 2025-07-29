@@ -10,7 +10,7 @@ venue: "IEEE AIRC"
 arxiv:
 code: https://github.com/MMachado05/REU-2024
 slides: /pdfs/AC303-AIRC_Presentation.pdf
-paper: https://doi.org/10.48550/arXiv.2409.03114
+paper: https://ieeexplore.ieee.org/document/11077539
 video: https://www.youtube.com/watch?v=OeRlhWqmIgE
 pdf: https://arxiv.org/pdf/2409.03114
 ---
