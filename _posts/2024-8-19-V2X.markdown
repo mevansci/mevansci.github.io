@@ -10,7 +10,7 @@ venue: "IEEE EIT"
 arxiv:
 code: https://github.com/MMachado05/REU-2024
 slides: /pdfs/present-067.pdf
-paper: https://doi.org/10.48550/arXiv.2409.00866
+paper: https://ieeexplore.ieee.org/document/11103673
 video: https://www.youtube.com/watch?v=OeRlhWqmIgE
 pdf: https://arxiv.org/pdf/2409.00866
 ---
