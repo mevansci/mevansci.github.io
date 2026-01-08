@@ -10,8 +10,8 @@ venue: "ECE 783 Digital Image Processing Term Project"
 arxiv:
 code:
 slides:
-paper: /pdfs/ECE_783_Final_Project.pdf
+paper:
 video:
 pdf: /pdfs/ECE_783_Final_Project.pdf
 ---
-Introduced additive noise to pre-processed images sampled from the distribution MRI is most vulnerable to during acquisition time. Applied non-local means filtering to denoise the MR images and plot the residual distribution of the noise. Our denoising algorithm achieves a SNR percent increase of up to 39.8%, and we show experimentally that the Rician distribution is approximately Gaussian for high SNR.
+Pre-processed magnitude MR images and added noise sampled from the distribution MRI is most vulnerable to during acquisition time. Restored the images with non-local means filtering and plotted the residual distribution of the noise. Achieved a SNR percent increase of up to 39.8%, and experimentally verified that the Rician distribution is approximately Gaussian for high SNR.
