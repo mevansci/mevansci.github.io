@@ -9,7 +9,7 @@ authors: <strong>Michael Evans</strong>
 venue: "ECE 783 Digital Image Processing Term Project"
 arxiv:
 code:
-slides:
+slides: /pdfs/ECE_783_Final_Presentation.pdf
 paper:
 video:
 pdf: /pdfs/ECE_783_Final_Project.pdf
