@@ -6,11 +6,12 @@ image: /images/alzheimers.png
 categories: preprint
 author: "Michael Evans"
 authors: "Megan A. Witherow, <strong>Michael Evans</strong>, Ahmed Temtam, Hamid Okhravi, and Khan M. Iftekharuddin"
-venue: "Brain (target)"
+venue: "arXiv"
 arxiv:
 code:
 slides:
 paper:
 video:
-pdf:
+pdf: /pdfs/Alzheimers_MS_arXiv.pdf
 ---
+Preprint of a manuscript submitted to Brain.
