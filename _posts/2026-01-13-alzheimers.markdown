@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Machine Learning-Enhanced Non-Amnestic Alzheimer's Disease Diagnosis From MRI and Clinical Features"
-date:   2026-01-13 22:21:59 +00:00
+date:   2026-01-21 22:21:59 +00:00
 image: /images/alzheimers.png
 categories: preprint
 author: "Michael Evans"
@@ -10,7 +10,7 @@ venue: "arXiv"
 arxiv: https://arxiv.org/abs/2601.15530
 code:
 slides:
-paper: https://arxiv.org/abs/2601.15530
+paper:
 video:
 pdf: /pdfs/Alzheimers_MS_arXiv.pdf
 ---
