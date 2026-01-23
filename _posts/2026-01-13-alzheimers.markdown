@@ -14,4 +14,3 @@ paper:
 video:
 pdf: /pdfs/Alzheimers_MS_arXiv.pdf
 ---
-Preprint of a manuscript under consideration at *Brain*.
