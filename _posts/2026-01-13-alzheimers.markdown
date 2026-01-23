@@ -7,10 +7,10 @@ categories: preprint
 author: "Michael Evans"
 authors: "Megan A. Witherow, <strong>Michael Evans</strong>, Ahmed Temtam, Hamid Okhravi, and Khan M. Iftekharuddin"
 venue: "arXiv"
-arxiv:
+arxiv: https://arxiv.org/abs/2601.15530
 code:
 slides:
-paper:
+paper: https://arxiv.org/abs/2601.15530
 video:
 pdf: /pdfs/Alzheimers_MS_arXiv.pdf
 ---
