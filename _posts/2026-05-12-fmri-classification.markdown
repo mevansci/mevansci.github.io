@@ -14,4 +14,4 @@ paper:
 video:
 pdf: /pdfs/ECE_783_Final_Project.pdf
 ---
-Pre-processed magnitude MR images and added noise sampled from the distribution MRI is most vulnerable to during acquisition time. Restored the images with non-local means filtering and plotted the residual distribution of the noise. Achieved a SNR percent increase of up to 39.8%, and experimentally verified that the Rician distribution is approximately Gaussian for high SNR.
+Developed a machine learning pipeline to classify Alzheimer’s disease from resting-state fMRI data using an ADNI cohort. The project used fMRIPrep preprocessing, AAL2 brain parcellation, functional connectivity, fALFF, ReHo, and mean BOLD features with class-balanced linear SVM models, achieving up to 0.71 balanced accuracy on AD vs CN classification.
