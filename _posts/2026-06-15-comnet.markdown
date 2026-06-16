@@ -3,7 +3,7 @@ layout: post
 title:  "CoMNeT: A MedNeXt-CorrDiff Framework for Volumetric Brain Tumor Segmentation"
 date:   2026-06-15 22:21:59 +00:00
 image: /images/seg_mask.png
-categories: paper
+categories: preprint
 author: "Michael Evans"
 authors: <strong>M. Evans</strong>, M. F. B. Hossen, M. S. Sadique, W. Farzana, and K. M. Iftekharuddin
 venue: "arXiv"
