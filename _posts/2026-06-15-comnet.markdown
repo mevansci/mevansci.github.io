@@ -5,7 +5,7 @@ date:   2026-06-15 22:21:59 +00:00
 image: /images/seg_mask.png
 categories: preprint
 author: "Michael Evans"
-authors: <strong>M. Evans</strong>, M. F. B. Hossen, M. S. Sadique, W. Farzana, and K. M. Iftekharuddin
+authors: <strong>Michael L. Evans</strong>, MD Fayaz Bin Hossen, MD Shibly Sadique, Walia Farzana, and Khan M. Iftekharuddin
 venue: "arXiv"
 arxiv:
 code:
