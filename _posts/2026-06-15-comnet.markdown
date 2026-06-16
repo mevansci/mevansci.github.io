@@ -14,4 +14,3 @@ paper: https://arxiv.org/abs/2606.15305
 video:
 pdf: /pdfs/comnet.pdf
 ---
-CoMNeT: A MedNeXt-CorrDiff Framework for Volumetric Brain Tumor Segmentation
